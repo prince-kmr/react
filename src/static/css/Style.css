@@ -1,0 +1,19 @@
+.box-height{
+    height : 100vh;
+}
+
+body{
+    background-color: rgb(43, 38, 38);
+}
+
+.side-panel{
+    background-color: rgb(22, 20, 20);
+}
+
+.msg {
+    font-size: small;
+}
+
+nav {
+    background-color: #e3f2fd;
+}
